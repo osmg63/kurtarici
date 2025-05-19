@@ -1,0 +1,48 @@
+/* Genel stil ayarları */
+.cards-container {
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-item {
+    width: 500px;
+    height: 400px;
+   
+  }
+  
+  .card-media {
+    height: 200px;
+  }
+  
+  .card-content {
+    height: 100%;
+  }
+  
+  .card-button {
+    margin-top: 16px;
+    width: 100%;
+  }
+  @media (min-width: 1024px) {
+    .cards-container {
+       
+    }
+  }
+  
+  /* Küçük ekranlar için stil ayarları */
+  @media (max-width: 600px) {
+    .card-item {
+      height: auto;
+    }
+  
+    .card-media {
+      height: 150px;
+    }
+  
+    .card-button {
+      font-size: 0.8rem;
+    }
+  }
+  
