@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kurtaricigaziantep.com/sitemap.xml
