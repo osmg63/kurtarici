@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.kurtaricigaziantep.com/sitemap.xml
+Sitemap: https://www.kurtaricigaziantep.com.tr/sitemap.xml
